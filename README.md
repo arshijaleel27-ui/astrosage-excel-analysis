@@ -14,7 +14,7 @@ A comprehensive data analysis on the Astrosage dataset to uncover key insights, 
 * **Insight 3:** Actionable recommendation based on the data.
 
 ## Visual Dashboard
-*(Tip: Take screenshots of your Excel charts or PPT slides and embed them here using standard Markdown format: `![Dashboard Screenshot](path/to/screenshot.png)`)*
+![Astrosage Dashboard](aastrosage%20dashboard.png)
 
 ## Tools Used
 * Microsoft Excel (Pivot Tables, Advanced Formulas, Data Visualization)
